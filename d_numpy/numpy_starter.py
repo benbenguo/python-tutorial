@@ -21,3 +21,8 @@ print()
 
 # 获取误差值
 print(myEye - eye(4)) # eye(4) 创建4×4的单位矩阵
+
+print()
+
+# N次方根
+print(125 ** (1.0/3))
